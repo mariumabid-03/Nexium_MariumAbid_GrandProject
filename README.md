@@ -1,11 +1,11 @@
-💼 Resume Tailor – Nexium Grand Project
+# 💼 Resume Tailor – Nexium Grand Project
 
 A dynamic, clean, and user-friendly resume builder web app built with Next.js 15, TypeScript, and Tailwind CSS. This project allows users to create, customize, and download professional resumes with real-time previews and multiple templates. It was developed as part of the Grand Project for the Nexium Internship.
 
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 ✍️ Interactive form to add personal details, work experience, education, and skills
 
@@ -29,7 +29,7 @@ A dynamic, clean, and user-friendly resume builder web app built with Next.js 15
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Framework: Next.js 15 (App Router)
 
@@ -49,14 +49,14 @@ Deployment: Vercel
 
 ---
 
-🔗 Live Demo (Vercel)
+## 🔗 Live Demo (Vercel)
 
-👉 [Click here to view the deployed site 🚀] (https://nexium-marium-abid-grand-project.vercel.app/)
+👉 [Click here to view the deployed site 🚀](https://nexium-marium-abid-grand-project.vercel.app/)
 
 
 ---
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 resume-tailor-dashboard/
 │
